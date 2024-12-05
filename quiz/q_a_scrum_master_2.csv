@@ -1,4 +1,3 @@
-Fragen (EN);Optionen (EN)
 "What are the two primary ways a Scrum Master 
 helps the Scrum Team work at its highest level of productivity?
 (choose the best two answers)";
@@ -194,7 +193,8 @@ C) avoiding conflicts and escalating to the line managers if conflicts occur."
 B) Setup the meeting and tell the Developers how it will be done.
 C) Inform management and ask them to solve it
 D) Ask the Developers to alternate who is responsible for meeting setup"
-A properly functioning Scrum Team will have at least one Release Sprint and may well have several;"A) True
+A properly functioning Scrum Team will have at least one Release Sprint and may well have several;
+"A) True
 B) False"
 "How much of the Sprint Backlog must be defined during the Sprint Planning event?
 (choose the best answer)";
@@ -645,7 +645,7 @@ A product increment must be released to production at the end of each Sprint.;
 B) False"
 "What is the main reason for the Scrum Master to be at the Daily Scrum? 
 (choose the best answer)";
-"A) They do not have to be there; they only need to ensure the Developers have a Daily Scrum.
+"A) They do not have to be there. they only need to ensure the Developers have a Daily Scrum.
 B) To make sure every team member answers the three questions.
 C) To write down any changes to the Sprint Backlog, including adding new items, and tracking progress on the burn-down.
 D) To gather status and progress information to report to management."
@@ -1555,7 +1555,8 @@ B) 1 day.
 C) 4 hours for a monthly Sprint. For shorter Sprints it is usually shorter.
 D) As long as needed.
 E) 4 hours and longer as needed."
-It is mandatory that the product Increment be released to production at the end of each Sprint.;"A) True
+It is mandatory that the product Increment be released to production at the end of each Sprint.;
+"A) True
 B) False"
 "What does it mean for a Scrum Team to be cross-functional? 
 (Choose the best answer)";
@@ -1577,7 +1578,7 @@ C) Sprint Review
 D) Sprint Retrospective
 E) All of the above"
 "The Product Backlog is ordered by
- (choose the best answer) ";
+ (choose the best answer)";
  "A) Items are randomly arranged. 
 B) Whatever is deemed most appropriate by the Product Owner. 
 C) Risk, where safer Items are atthe top, and riskier Items are at the bottom. 
@@ -1597,7 +1598,7 @@ C) Have the development managers for each Developer introduce their direct repor
 D) Introduce a bonus system for the top performers in the team
 E) Ask the Product Owner to discuss the product, its vision, history, goals, and context, as well as answer questions"
 "What is the maximum length of a Sprint?
-(choose the best answer) ";
+(choose the best answer)";
 "A) Not so long that the risk is unacceptable to the Product Owner. 
 B) Not so long that other business events can't be readily synchronized with the development work. 
 C) No more than one calendar month. 
@@ -1733,14 +1734,14 @@ D) The Product Owner can help clarify or optimize the Sprint when asked by the D
 In what ways would you help the team start? 
 (Choose the best answer)";
 "A) Ensure the Scrum Team members have compatible personalities, have the tech leads clarify the expectations and responsibilities of each role, and propose a performance rewards system.
-B) Have the Scrum Team members introduce their background experience with each other, ask the Product Owner to discuss the product and answer questions, and ensure the team understands the need for a Definition of �Done.�"
+B) Have the Scrum Team members introduce their background experience with each other, ask the Product Owner to discuss the product and answer questions, and ensure the team understands the need for a Definition of Done."
 "When does a new Sprint begin?
 (Choose the best answer)";
 "A) Immediately after the next Sprint Planning.
 B) Immediately after the end of the previous Sprint.
 C) It depends on the Product Owner.
 D) Every Monday."
-"Scrum Master is a ""management"" position? ";
+"Scrum Master is a management position? ";
 "A) True 
 B) False"
 "Developers are required to deliver a done increment by the end of a Sprint. 
